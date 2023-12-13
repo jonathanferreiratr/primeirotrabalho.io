@@ -1,0 +1,3 @@
+Bem-vindo ao meu primeiro site, um testemunho da minha jornada no emocionante mundo do desenvolvimento web! Guiado por um tutorial em vídeo abrangente, embarquei nesta aventura de codificação, transformando linhas de código em um espaço digital que reflete minha criatividade e habilidades recém-descobertas.
+
+Ao navegar pelas páginas, você testemunhará a fusão de design e funcionalidade. Desde a paleta de cores cuidadosamente escolhida até os elementos estrategicamente colocados, cada aspecto deste site é um reflexo das lições aprendidas durante o tutorial. O layout responsivo garante uma experiência perfeita em vários dispositivos, mostrando meu compromisso com o design amigável.
